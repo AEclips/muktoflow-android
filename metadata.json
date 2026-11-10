@@ -1,0 +1,6 @@
+{
+  "name": "MuktoFlow",
+  "description": "Full-featured Zen Pomodoro timer with task management, ambient soundscapes, streaks, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
